@@ -1,2 +1,1 @@
-Peugeot Garage 1.6 — Registracija prikazana iz API nastavitve.datumRegistracije (Nastavitve!B4).
-Ohranjeni vsi prejšnji podatki in slike. ZIP razširite in vse datoteke naložite v GitHub repozitorij.
+Peugeot Garage v1.8 – v galerijo dodana četrta zimska fotografija (gumb ❄). Ohranjeni so vsi opomniki za registracijo in zavarovanje iz v1.7, tankanja, servisi, statistika, ikone in obstoječi API. Vsebino ZIP-a naložite v koren istega repozitorija Bine1987/Peugeot-Garage, s čimer ostane povezava enaka.
