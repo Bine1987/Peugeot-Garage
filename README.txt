@@ -1,3 +1,5 @@
-Peugeot Garage v1.2 – branje Google Sheets prek Apps Script (JSONP).
-Odpri index.html v brskalniku. Podatki se osvežijo ob nalaganju ali s tipko Osveži.
-Skripta bere javni API samo za branje. Testni vnosi ostanejo v Google Sheets do ročnega brisanja.
+Peugeot Garage 1.5 – z ikono levčka za iPhone/Android.
+
+V koren repozitorija naloži: index.html, manifest.webmanifest, icon-192.png, icon-512.png, favicon.png, apple-touch-icon.png; ter mapo assets z vsemi fotografijami.
+
+Google Sheets API ostaja nespremenjen.
